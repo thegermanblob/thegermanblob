@@ -6,9 +6,9 @@
 
 Full-Stack Software Engineer, currently at Holberton School.
 
-Focused on learning all things Machine Learning and Cloud-based database design.
+Focused on learning all things Machine Learning(ML) and Cloud database design.
 
-Follow me or reach out to talk about Full Stack Development, ML, Cloud, or any Tech-related stuff.
+Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs, or any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/thegermanblob)  <img src="https://img.shields.io/github/followers/thegermanblob?label=Follow" style=" float:left, margin-right:10px" />

@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/thegermanblob/thegermanblob/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-TGB-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-morales-5268121b5//)](https://www.linkedin.com/in/andres-morales-5268121b5/)
 
 Full-Stack Software Engineer, currently a student at Holberton School.

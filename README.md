@@ -4,9 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-TGB-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-morales-5268121b5//)](https://www.linkedin.com/in/andres-morales-5268121b5/)
 
-Full-Stack Software Developer, currently at Holberton School.
+Full-Stack Software Engineer, currently at Holberton School.
 
-Focusing on learning all things Machine Learning and Cloud Based database design.
+Focused on learning all things Machine Learning and Cloud-based database design.
 
 Follow me or reach out to talk about Full Stack Development, ML, Cloud, or any Tech-related stuff.
 

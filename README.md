@@ -3,7 +3,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-TGB-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-morales-5268121b5//)](https://www.linkedin.com/in/andres-morales-5268121b5/)
-[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/1lxGondj-2rrEN-JMjOQx2pC2HC9221ZC/view?usp=sharing)
+[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=wiki)](https://drive.google.com/file/d/1lxGondj-2rrEN-JMjOQx2pC2HC9221ZC/view?usp=sharing)
 
 
 Full-Stack Software Engineer, currently at Holberton School.

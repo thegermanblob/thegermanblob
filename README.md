@@ -23,6 +23,8 @@ Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+
 
 ![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=thegermanblob&layout=compact&theme=algolia)
 ### Other Languages I know
@@ -30,7 +32,7 @@ Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs
 ### Tech I'm Interested in
 
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+
 
 ---
 ![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=thegermanblob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia)

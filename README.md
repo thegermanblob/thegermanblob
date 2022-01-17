@@ -26,7 +26,14 @@ Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
 
+
+
+<p align="center">
+	<a href="https://profile.codersrank.io/user/thegermanblob#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thegermanblob&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=darkgray"></a>
+</p>
+
 ![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=thegermanblob&layout=compact&theme=algolia)
+
 ### Other Languages I know
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 ### Tech I'm Interested in
@@ -35,5 +42,7 @@ Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs
 
 
 ---
+
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 

@@ -35,6 +35,7 @@ Follow me or reach out to talk about SDLC, Full-Stack Development, ML, Cloud DBs
 
 
 ---
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=thegermanblob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia)

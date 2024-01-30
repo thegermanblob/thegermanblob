@@ -6,7 +6,7 @@
 [![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=wiki&label)](https://drive.google.com/file/d/1temvZYT9R_HWjiU_XlW7NIgGFec-Alb7/view?usp=sharing)
 
 
-Full-Stack Software Engineer, currently at Holberton School.
+Full-Stack Software Engineer, currently a Freelance.
 
 Focused on learning all things Machine Learning(ML) and Cloud database design.
 
